@@ -1,0 +1,48 @@
+body{
+    background-image: url("loginimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+h1{
+    text-align: center;
+    color:red;
+
+}
+
+.page1{
+    position: relative;
+    width: 300px;
+    height: 500px;
+    translate: 400px;
+    border-radius: 20px;
+    box-sizing: 10px 20px;
+    background-color: aqua;
+    border-color: aqua;
+    opacity: 0.7;
+}
+input{
+    width:50%;
+    text-align: center;
+    /* margin:30px; */
+}
+img{
+    width: 100px;
+    height: 70px;
+    translate: 100px;
+    margin-top: 40px;
+    opacity: 1;
+}
+input .textlable{
+    font-size: 15px;
+    color:rgb(6, 109, 244);
+    margin-right: 10px;
+    box-sizing: border-box;
+}
+button{
+    background-color: rgb(75, 193, 232);
+    translate: 110px;
+}
+.message{
+    translate: 30px;
+}
